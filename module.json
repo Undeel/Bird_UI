@@ -18,7 +18,7 @@
   "styles": [
     "/styles/styles.css"
   ],
-  "url": "https://github.com/Undeel/Undeel/tree/main/B",
-  "manifest": "https://raw.githubusercontent.com/Undeel/Undeel/main/B/module.json",
-  "download": "https://codeload.github.com/brunocalado/raise-my-hand-plus/zip/main"
+  "url": "https://github.com/Undeel/Bird_UI",
+  "manifest": "https://raw.githubusercontent.com/Undeel/Bird_UI/main/module.json",
+  "download": "https://github.com/Undeel/Bird_UI/archive/refs/heads/main.zip"
 }
